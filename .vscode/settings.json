@@ -4,5 +4,4 @@
         "type_traits": "cpp",
         "iterator": "cpp"
     },
-    "C_Cpp.errorSquiggles": "disabled"
 }
