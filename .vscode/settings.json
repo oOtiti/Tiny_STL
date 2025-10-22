@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.dbclient-js": "javascript",
-        "type_traits": "cpp"
-    }
+        "type_traits": "cpp",
+        "iterator": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
